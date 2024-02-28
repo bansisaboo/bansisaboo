@@ -22,9 +22,11 @@ Let's code some magic!
 
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2320232A.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%25E05D44.svg?&style=for-the-badge&logo=junit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%234AAE3F.svg?&style=for-the-badge&logo=selenium&logoColor=white)
