@@ -25,15 +25,17 @@ Let's code some magic!
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2320232A.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%25E05D44.svg?&style=for-the-badge&logo=junit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%234AAE3F.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Other Tools:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsaboo&show_icons=true&hide=contribs,prs&theme=radical)
 
 
 
