@@ -27,6 +27,7 @@ Let's code some magic!
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2320232A.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-%25E05D44.svg?&style=for-the-badge&logo=junit&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?&style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%234AAE3F.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
