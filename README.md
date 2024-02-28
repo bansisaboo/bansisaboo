@@ -29,7 +29,7 @@ Let's code some magic!
 ![JUnit](https://img.shields.io/badge/JUnit-%25E05D44.svg?&style=for-the-badge&logo=junit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%234AAE3F.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
-### Other Tools
+### Other Tools:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
