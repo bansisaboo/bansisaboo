@@ -1,5 +1,5 @@
 ## About Me:
-👋 Hi, I’m Bansi Saboo<br><br>
+👋 Hi, I’m **Bansi Saboo**<br><br>
 A seasoned Software Developer with a passion for Full Stack Development and Database Management.<br><br>
 👀 **I’m interested in:** <br>
 Exploring innovative technologies, contributing to open-source projects, and continuous learning in the ever-evolving tech landscape.<br><br>
