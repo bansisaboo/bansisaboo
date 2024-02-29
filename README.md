@@ -15,7 +15,7 @@ Advanced techniques in Java for scalable backend development and enhancing my sk
 Java, Angular, Spring Boot, REST APIs, and anything related to fullstack Java Angular development.<br>
 
 💞️ **I’m looking to collaborate on:** <br>
-Fullstack Projects in Java backend & Angular frontend<br><br>
+Fullstack Projects in Java backend & Angular frontend<br>
 
 📫 **I'm reachable at:** <br>
 bansisaboo@gmail.com
