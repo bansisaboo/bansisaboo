@@ -1,9 +1,9 @@
 ## About Me:
 👋 Hi, I’m **Bansi Saboo**<br><br>
-A seasoned Software Developer with a passion for Full Stack Development and Database Management.<br><br>
+A seasoned Software Developer with a passion for Full Stack Development and Database Management.<br>
 
 👀 **I’m interested in:** <br>
-Exploring innovative technologies, contributing to open-source projects, and continuous learning in the ever-evolving tech landscape.<br><br>
+Exploring innovative technologies, contributing to open-source projects, and continuous learning in the ever-evolving tech landscape.<br>
 
 🔭 **I’m currently working:** <br>
 On crafting seamless integrations of Java backend logic using microservices with Angular's sleek frontend, ensuring robust and efficient full-stack solutions. <br><br>
