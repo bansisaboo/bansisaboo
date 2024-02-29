@@ -6,7 +6,7 @@ Exploring innovative technologies, contributing to open-source projects, and con
 🔭 **I’m currently working:** <br>
 On crafting seamless integrations of Java backend logic using microservices with Angular's sleek frontend, ensuring robust and efficient full-stack solutions.<br><br>
 🌱 **I'm currently learning:** <br>
-Advanced techniques in Java for scalable backend development and enhancing my skills in Angular for creating responsive and modern UIs.<br><br>
+Advanced techniques in Java for scalable backend development and enhancing my skills in Angular for creating responsive and modern UIs. <br><br>
 💬 **Ask me about:** <br>
 Java, Angular, Spring Boot, REST APIs, and anything related to fullstack Java Angular development.<br><br>
 💞️ **I’m looking to collaborate on:** <br>
