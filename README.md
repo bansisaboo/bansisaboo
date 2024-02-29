@@ -12,7 +12,7 @@ On crafting seamless integrations of Java backend logic using microservices with
 Advanced techniques in Java for scalable backend development and enhancing my skills in Angular for creating responsive and modern UIs. <br>
 
 💬 **Ask me about:** <br>
-Java, Angular, Spring Boot, REST APIs, and anything related to fullstack Java Angular development.<br><br>
+Java, Angular, Spring Boot, REST APIs, and anything related to fullstack Java Angular development.<br>
 
 💞️ **I’m looking to collaborate on:** <br>
 Fullstack Projects in Java backend & Angular frontend<br><br>
