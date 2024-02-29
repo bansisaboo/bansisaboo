@@ -4,7 +4,7 @@ A seasoned Software Developer with a passion for Full Stack Development and Data
 👀 **I’m interested in:** <br>
 Exploring innovative technologies, contributing to open-source projects, and continuous learning in the ever-evolving tech landscape.<br><br>
 🔭 **I’m currently working:** <br>
-On crafting seamless integrations of Java backend logic using microservices with Angular's sleek frontend, ensuring robust and efficient full-stack solutions.<br><br>
+On crafting seamless integrations of Java backend logic using microservices with Angular's sleek frontend, ensuring robust and efficient full-stack solutions. <br><br>
 🌱 **I'm currently learning:** <br>
 Advanced techniques in Java for scalable backend development and enhancing my skills in Angular for creating responsive and modern UIs. <br><br>
 💬 **Ask me about:** <br>
