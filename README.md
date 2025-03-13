@@ -26,7 +26,7 @@ bansisaboo@gmail.com
 <p align="center">
   <a href="https://www.instagram.com/bansi_saboo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>  
   <a href="https://www.linkedin.com/in/bansi-saboo-93833b152/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
-  <a href="https://bansisaboo.github.com/profile"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://bansisaboo.github.io/profile"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 
