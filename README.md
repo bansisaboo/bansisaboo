@@ -44,7 +44,12 @@ bansisaboo@gmail.com
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bansisaboo&show_icons=true&hide=contribs,prs&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=bansisaboo&color=blue)
+
+## 👀 Visitor Count
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bansisaboo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="bansisaboo" />
+</p>
+
 
 
 
