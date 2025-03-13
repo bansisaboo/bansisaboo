@@ -25,6 +25,7 @@ bansisaboo@gmail.com
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bansi_saboo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bansi-saboo-93833b152/)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://bansisaboo.github.io/profile/)
 
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
